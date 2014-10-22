@@ -1,0 +1,11 @@
+*.swp
+*.aux
+*.pdf
+*.log
+*.pyc
+*.png
+*.jpg
+*.hdf5
+*.zsh
+*__pycache__
+
